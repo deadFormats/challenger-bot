@@ -1,0 +1,1 @@
+from challenger_bot import challenger_bot
